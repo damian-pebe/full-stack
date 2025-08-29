@@ -211,18 +211,18 @@ export const skeletonCardStyles = {
 
 export const paginationStyles = {
   item: {
-    background: "transparent",
+    backgroundColor: "transparent",
     borderRadius: LAYOUT.BORDER_RADIUS.SM,
     border: "none",
     fontWeight: 600,
     minWidth: 36,
     minHeight: 36,
-    transition: "background 0.3s, color 0.3s",
+    transition: "background-color 0.3s, color 0.3s",
     outline: "none",
   },
 
   active: {
-    background: COLORS.paginationActive,
+    backgroundColor: COLORS.paginationActive,
     color: "#fff",
   },
 
@@ -237,13 +237,13 @@ export const paginationStyles = {
   navigation: {
     color: COLORS.text,
     fontWeight: "500",
-    background: COLORS.paginationBg,
+    backgroundColor: COLORS.paginationBg,
     border: "none",
     borderRadius: LAYOUT.BORDER_RADIUS.SM,
     minWidth: 36,
     minHeight: 36,
-    outline: "none", // Remove focus outline
-    transition: "background 0.3s, color 0.3s",
+    outline: "none",
+    transition: "background-color 0.3s, color 0.3s",
   },
 
   disabled: {
