@@ -1,7 +1,207 @@
 [
   { "id": 1, "name": "Laptop Pro", "category": "Electronics", "price": 2499 },
-  { "id": 2, "name": "Noise Cancelling Headphones", "category": "Electronics", "price": 399 },
-  { "id": 3, "name": "Ultra‑Wide Monitor", "category": "Electronics", "price": 999 },
+  {
+    "id": 2,
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 399
+  },
+  {
+    "id": 3,
+    "name": "Ultra‑Wide Monitor",
+    "category": "Electronics",
+    "price": 999
+  },
   { "id": 4, "name": "Ergonomic Chair", "category": "Furniture", "price": 799 },
-  { "id": 5, "name": "Standing Desk", "category": "Furniture", "price": 1199 }
+  { "id": 5, "name": "Standing Desk", "category": "Furniture", "price": 1199 },
+  { "id": 6, "name": "Smartphone X", "category": "Electronics", "price": 1099 },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 149
+  },
+  {
+    "id": 8,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 199
+  },
+  {
+    "id": 9,
+    "name": "4K Action Camera",
+    "category": "Electronics",
+    "price": 299
+  },
+  {
+    "id": 10,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 59
+  },
+  { "id": 11, "name": "Smartwatch", "category": "Electronics", "price": 349 },
+  {
+    "id": 12,
+    "name": "Fitness Tracker",
+    "category": "Electronics",
+    "price": 129
+  },
+  { "id": 13, "name": "Tablet S", "category": "Electronics", "price": 599 },
+  { "id": 14, "name": "E‑Reader", "category": "Electronics", "price": 179 },
+  {
+    "id": 15,
+    "name": "Gaming Console",
+    "category": "Electronics",
+    "price": 499
+  },
+  { "id": 16, "name": "VR Headset", "category": "Electronics", "price": 399 },
+  { "id": 17, "name": "Portable SSD", "category": "Electronics", "price": 129 },
+  {
+    "id": 18,
+    "name": "External Hard Drive",
+    "category": "Electronics",
+    "price": 89
+  },
+  {
+    "id": 19,
+    "name": "Smart Light Bulb",
+    "category": "Electronics",
+    "price": 29
+  },
+  { "id": 20, "name": "Robot Vacuum", "category": "Electronics", "price": 299 },
+  { "id": 21, "name": "Coffee Maker", "category": "Appliances", "price": 149 },
+  { "id": 22, "name": "Air Fryer", "category": "Appliances", "price": 99 },
+  { "id": 23, "name": "Blender", "category": "Appliances", "price": 89 },
+  {
+    "id": 24,
+    "name": "Microwave Oven",
+    "category": "Appliances",
+    "price": 199
+  },
+  { "id": 25, "name": "Toaster", "category": "Appliances", "price": 49 },
+  { "id": 26, "name": "Refrigerator", "category": "Appliances", "price": 899 },
+  { "id": 27, "name": "Dishwasher", "category": "Appliances", "price": 699 },
+  {
+    "id": 28,
+    "name": "Washing Machine",
+    "category": "Appliances",
+    "price": 799
+  },
+  { "id": 29, "name": "Dryer", "category": "Appliances", "price": 749 },
+  {
+    "id": 30,
+    "name": "Electric Kettle",
+    "category": "Appliances",
+    "price": 39
+  },
+  { "id": 31, "name": "Sofa", "category": "Furniture", "price": 1299 },
+  { "id": 32, "name": "Bookshelf", "category": "Furniture", "price": 299 },
+  { "id": 33, "name": "Dining Table", "category": "Furniture", "price": 899 },
+  { "id": 34, "name": "Bed Frame", "category": "Furniture", "price": 799 },
+  { "id": 35, "name": "Nightstand", "category": "Furniture", "price": 149 },
+  { "id": 36, "name": "Wardrobe", "category": "Furniture", "price": 599 },
+  { "id": 37, "name": "TV Stand", "category": "Furniture", "price": 249 },
+  { "id": 38, "name": "Coffee Table", "category": "Furniture", "price": 199 },
+  { "id": 39, "name": "Accent Chair", "category": "Furniture", "price": 349 },
+  { "id": 40, "name": "Bar Stool", "category": "Furniture", "price": 99 },
+  { "id": 41, "name": "Mountain Bike", "category": "Sports", "price": 899 },
+  { "id": 42, "name": "Treadmill", "category": "Sports", "price": 1199 },
+  { "id": 43, "name": "Yoga Mat", "category": "Sports", "price": 39 },
+  { "id": 44, "name": "Dumbbell Set", "category": "Sports", "price": 129 },
+  { "id": 45, "name": "Tennis Racket", "category": "Sports", "price": 89 },
+  { "id": 46, "name": "Basketball", "category": "Sports", "price": 29 },
+  { "id": 47, "name": "Soccer Ball", "category": "Sports", "price": 25 },
+  { "id": 48, "name": "Golf Clubs", "category": "Sports", "price": 499 },
+  { "id": 49, "name": "Camping Tent", "category": "Sports", "price": 199 },
+  { "id": 50, "name": "Sleeping Bag", "category": "Sports", "price": 79 },
+  { "id": 51, "name": "Cookware Set", "category": "Home", "price": 199 },
+  { "id": 52, "name": "Vacuum Cleaner", "category": "Home", "price": 299 },
+  { "id": 53, "name": "Table Lamp", "category": "Home", "price": 59 },
+  { "id": 54, "name": "Wall Clock", "category": "Home", "price": 39 },
+  { "id": 55, "name": "Curtains", "category": "Home", "price": 79 },
+  { "id": 56, "name": "Area Rug", "category": "Home", "price": 249 },
+  { "id": 57, "name": "Picture Frame", "category": "Home", "price": 19 },
+  { "id": 58, "name": "Mirror", "category": "Home", "price": 99 },
+  { "id": 59, "name": "Laundry Basket", "category": "Home", "price": 29 },
+  { "id": 60, "name": "Iron", "category": "Home", "price": 49 },
+  {
+    "id": 61,
+    "name": "Men's Running Shoes",
+    "category": "Fashion",
+    "price": 129
+  },
+  { "id": 62, "name": "Women's Sneakers", "category": "Fashion", "price": 119 },
+  { "id": 63, "name": "Leather Jacket", "category": "Fashion", "price": 299 },
+  { "id": 64, "name": "Jeans", "category": "Fashion", "price": 79 },
+  { "id": 65, "name": "T‑Shirt", "category": "Fashion", "price": 29 },
+  { "id": 66, "name": "Dress", "category": "Fashion", "price": 99 },
+  { "id": 67, "name": "Sunglasses", "category": "Fashion", "price": 59 },
+  { "id": 68, "name": "Backpack", "category": "Fashion", "price": 89 },
+  { "id": 69, "name": "Wristwatch", "category": "Fashion", "price": 199 },
+  { "id": 70, "name": "Handbag", "category": "Fashion", "price": 149 },
+  { "id": 71, "name": "Fiction Novel", "category": "Books", "price": 19 },
+  { "id": 72, "name": "Cookbook", "category": "Books", "price": 29 },
+  { "id": 73, "name": "Biography", "category": "Books", "price": 25 },
+  { "id": 74, "name": "Children's Book", "category": "Books", "price": 15 },
+  { "id": 75, "name": "Science Textbook", "category": "Books", "price": 89 },
+  { "id": 76, "name": "Travel Guide", "category": "Books", "price": 35 },
+  { "id": 77, "name": "Art Book", "category": "Books", "price": 49 },
+  { "id": 78, "name": "Mystery Novel", "category": "Books", "price": 22 },
+  { "id": 79, "name": "Self‑Help Book", "category": "Books", "price": 27 },
+  { "id": 80, "name": "Graphic Novel", "category": "Books", "price": 32 },
+  { "id": 81, "name": "Dog Food", "category": "Pet Supplies", "price": 49 },
+  { "id": 82, "name": "Cat Litter", "category": "Pet Supplies", "price": 29 },
+  { "id": 83, "name": "Bird Cage", "category": "Pet Supplies", "price": 99 },
+  { "id": 84, "name": "Aquarium", "category": "Pet Supplies", "price": 199 },
+  { "id": 85, "name": "Pet Bed", "category": "Pet Supplies", "price": 59 },
+  { "id": 86, "name": "Dog Leash", "category": "Pet Supplies", "price": 19 },
+  { "id": 87, "name": "Cat Tree", "category": "Pet Supplies", "price": 89 },
+  { "id": 88, "name": "Fish Food", "category": "Pet Supplies", "price": 15 },
+  {
+    "id": 89,
+    "name": "Hamster Wheel",
+    "category": "Pet Supplies",
+    "price": 25
+  },
+  { "id": 90, "name": "Pet Carrier", "category": "Pet Supplies", "price": 69 },
+  {
+    "id": 91,
+    "name": "Smart Thermostat",
+    "category": "Electronics",
+    "price": 199
+  },
+  {
+    "id": 92,
+    "name": "Streaming Stick",
+    "category": "Electronics",
+    "price": 49
+  },
+  {
+    "id": 93,
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": 39
+  },
+  { "id": 94, "name": "Dash Cam", "category": "Electronics", "price": 129 },
+  {
+    "id": 95,
+    "name": "Electric Toothbrush",
+    "category": "Electronics",
+    "price": 79
+  },
+  { "id": 96, "name": "Smart Plug", "category": "Electronics", "price": 25 },
+  { "id": 97, "name": "Laptop Sleeve", "category": "Electronics", "price": 29 },
+  { "id": 98, "name": "Noise Machine", "category": "Electronics", "price": 59 },
+  {
+    "id": 99,
+    "name": "Photo Printer",
+    "category": "Electronics",
+    "price": 149
+  },
+  {
+    "id": 100,
+    "name": "Portable Projector",
+    "category": "Electronics",
+    "price": 299
+  }
 ]
